@@ -1,3 +1,10 @@
+## Information sources:
+
+- [`next cache with redis example`](https://github.com/vercel/next.js/tree/canary/examples/cache-handler-redis)
+- [`Docs for @neshca/cache-handler`](https://caching-tools.github.io/next-shared-cache/)
+- [`Youtube video`](https://youtu.be/xFxnvawpelU?si=i6oe_bhBMTG0UVYO)
+- [`Article "next-js-redis-cache-handler"`](https://medium.com/@mohsenmahoski/next-js-redis-cache-handler-4aa130e9c242)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

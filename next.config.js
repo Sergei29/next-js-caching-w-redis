@@ -1,7 +1,6 @@
-
-
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   /* config options here */
-};
-module.exports = nextConfig;
+  cacheHandler: require.resolve("./cache-handler.mjs"),
+}
+module.exports = nextConfig

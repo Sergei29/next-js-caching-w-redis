@@ -6,12 +6,17 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "redis-redis-create": "docker run -d --name redis-stack-server -p 6379:6379 redis/redis-stack-server:latest",
+    "redis-start": "docker start redis-stack-server",
+    "redis-commander": "redis-commander"
   },
   "dependencies": {
+    "@neshca/cache-handler": "^1.8.1",
     "next": "^14.2.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "redis": "^4.7.0"
   },
   "devDependencies": {
     "@types/node": "^18",
