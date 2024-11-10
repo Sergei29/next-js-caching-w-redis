@@ -4,6 +4,7 @@
 - [`Docs for @neshca/cache-handler`](https://caching-tools.github.io/next-shared-cache/)
 - [`Youtube video`](https://youtu.be/xFxnvawpelU?si=i6oe_bhBMTG0UVYO)
 - [`Article "next-js-redis-cache-handler"`](https://medium.com/@mohsenmahoski/next-js-redis-cache-handler-4aa130e9c242)
+- [`Article "redising-your-next-js-cache"`](https://www.ekino.fr/publications/redising-your-next-js-cache/)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
